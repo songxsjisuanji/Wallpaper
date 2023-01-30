@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Wallpaper">
+        <file>MS/CLOSE.png</file>
+        <file>MS/Geng.png</file>
+        <file>MS/MINI.png</file>
+        <file>MS/theme.png</file>
+        <file>MS/set.png</file>
+        <file>MS/discovers.png</file>
+        <file>MS/mobile_phone.png</file>
+        <file>MS/servs.png</file>
+        <file>MS/+.png</file>
+        <file>bzyq.png</file>
+        <file>MS/8k.png</file>
+        <file>MS/start.png</file>
+        <file>MS/cut.png</file>
+        <file>MS/qrcode_for_gh_9bf983ab2530_860.jpg</file>
+        <file>MS/fm3.png</file>
+        <file>MS/fm1.png</file>
+        <file>MS/fm2.png</file>
+        <file>fav.ico</file>
+    </qresource>
+</RCC>
